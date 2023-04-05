@@ -18,3 +18,10 @@ Install dependencies:
 #+begin_src bash :results none
 pip install -r requirements.txt
 #+end_src
+
+Get a ~credentials.json~ from Google Cloud Console and place it in this folder.
+
+* Run
+#+begin_src bash :results none
+python main.py
+#+end_src
