@@ -27,7 +27,7 @@ openai==0.27.2
 packaging==23.1
 protobuf==4.22.1
 pyasn1==0.4.8
-pyasn1-modules==0.2.8
+pyasn1-modules==0.3.0
 pydantic==1.10.7
 pyparsing==3.1.1
 PyYAML==6.0
