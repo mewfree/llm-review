@@ -23,7 +23,7 @@ mypy-extensions==1.0.0
 numpy==1.24.2
 oauth2client==4.1.3
 oauthlib==3.2.2
-openai==0.27.2
+openai==1.12.0
 packaging==23.2
 protobuf==4.25.3
 pyasn1==0.4.8
